@@ -31,7 +31,8 @@ def hello_world():
 ```
 
 
-```java
-def hello_world():
-    print("Hello, World!")
-```
+| Feature | Description |
+|---------|-------------|
+| Feature 1 | Description of feature 1 |
+| Feature 2 | Description of feature 2 |
+
