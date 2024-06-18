@@ -6,3 +6,9 @@
 
 *italic* or _italic_
 **bold** or __bold__
+
+
+
+```python
+def hello_world():
+    print("Hello, World!")
