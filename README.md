@@ -12,3 +12,8 @@
 ```python
 def hello_world():
     print("Hello, World!")
+
+
+```java
+def hello_world():
+    print("Hello, World!")
